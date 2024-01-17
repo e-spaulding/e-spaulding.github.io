@@ -3,8 +3,9 @@
 }
 
 body {
-  font-family: Helvetica, sans-serif;
+  font-family: monospace;
   font-style: bold;
+  background-color: #FFEEDC;
 }
 
 nav {
@@ -55,3 +56,4 @@ a:hover {
 a:active {
   color: #FEA166;
   text-decoration: underline;
+}
