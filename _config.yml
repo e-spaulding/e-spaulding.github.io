@@ -18,6 +18,7 @@ title: DASC130 Introduction to Data Science
 description: Course website for DASC130.
 author: Elizabeth Hoefer
 source: 'dasc130'
+destination: 'dasc130/_site'
 baseurl: '/dasc130' # the subpath of your site, e.g. /blog
 url: 'https://e-spaulding.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
